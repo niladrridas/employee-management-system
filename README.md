@@ -25,9 +25,9 @@ EmployeeManagementSystem
    cd employee-management-system
 
 ## Features
-Add and view employee details
-Basic console-based user interface
-Java-based implementation
+1. Add and view employee details
+2. Basic console-based user interface
+3. Java-based implementation
 
 ## Usage
 Follow the prompts to add employees, view all employees, and exit the system.
