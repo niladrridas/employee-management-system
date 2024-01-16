@@ -4,7 +4,7 @@ Employee Management System is a simple console-based Java application that allow
 
 ## Project Structure
 
-(\``` EmployeeManagementSystem
+(\```employee-management-system
 |-- src
 | |-- main
 | |-- java
