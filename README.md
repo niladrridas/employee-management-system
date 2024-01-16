@@ -35,7 +35,7 @@ Project Expansion
 This project serves as a foundation for building more robust employee management systems. Consider expanding the project by adding features, integrating databases, or transitioning to a web-based frontend for a more comprehensive solution.
 
 ## Contributing
-Contributions are welcome! Please follow the guidelines in [CONTRIBUTING](https://github.com/niladrigithub/employee-management-system/blob/main/CONTRIBUTING).
+Contributions are welcome! Please follow the guidelines in [CONTRIBUTING](https://github.com/niladrigithub/employee-management-system/blob/main/CONTRIBUTING.md).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/niladrigithub/employee-management-system/blob/main/LICENSE) file for details.
